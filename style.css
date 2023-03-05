@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  h1 {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+  }
+  h2{
+    color: red;
+  }
+  h3{
+    color: chocolate;
+  }
+  audio::-webkit-media-controls {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.75);}
+h4{
+    color: aqua;
+}
+body {
+  background-image: url('path/to/eye.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
